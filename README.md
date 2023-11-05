@@ -1,3 +1,2 @@
 # sign-me-up
-Let's SOLVE It
-Part of the Borealis AI program
+For the Let's SOLVE It program at Borealis AI
